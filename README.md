@@ -12,13 +12,13 @@ Check out the minimal portfolio at https://bharathsanjai.github.io/portfolio/
 [contributors-shield]: https://img.shields.io/github/contributors/giocoal/minimal-portfolio.svg?style=for-the-badge
 [contributors-url]: https://github.com/bharathsanjai/portfolio
 [forks-shield]: https://img.shields.io/github/forks/giocoal/minimal-portfolio.svg?style=for-the-badge
-[forks-url]: https://github.com/giocoal/minimal-portfolio/network/members
+[forks-url]: https://github.com/bharathsanjai/portfolio/network/members
 [stars-shield]: https://img.shields.io/github/stars/giocoal/minimal-portfolio.svg?style=for-the-badge
-[stars-url]: https://github.com/giocoal/minimal-portfolio/stargazers
+[stars-url]: https://github.com/bharathsanjai/portfolio/stargazers
 [issues-shield]: https://img.shields.io/github/issues/giocoal/minimal-portfolio.svg?style=for-the-badge
-[issues-url]: https://github.com/giocoal/minimal-portfolio/issues
+[issues-url]: https://github.com/bharathsanjai/portfolio/pulls
 [license-shield]: https://img.shields.io/github/license/giocoal/minimal-portfolio.svg?style=for-the-badge
-[license-url]: https://github.com/giocoal/minimal-portfolio/blob/master/LICENSE
+[license-url]: https://github.com/bharathsanjai/portfolio/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bharathveer-kulasekaran-95011b43/
 [product-screenshot]: images/screenshot.png
