@@ -1,6 +1,32 @@
-title: Bharathveer Kulasekaran
-logo: /assets/img/pic.jpeg
-description: Backend engineer || Software Architect.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Bharathveer Kulasekaran </p>
+
+logo: "/assets/img/pic.jpeg?raw=true"
+
+description:
+  <p align="center">
+  Milan, Italy
+  <br> (+39) 3406959794
+  <br> carbone.giorgio4@gmail.com
+  <br> <a href="pdf/Carbone_Giorgio_CV_eng.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/bharathveer-kulasekaran-95011b43/">LinkedIn</a> |
+  <a href="https://github.com/bharathsanjai">GitHub</a> 
+  <br> <a href="https://www.kaggle.com/bharathveerks">Kaggle</a> |
+  <a href="https://leetcode.com/bharathsanjai/">leetcode</a> |
+  <a href="https://medium.com/@bharathsanjai">Medium</a> 
+  </p>
+  
+  <p align="justify">
+  I am an <b>software architect</b> who enjoys connecting the dots by the use of technology. Also aspiring to learn big data via python programming
+  <br><br>
+  I have done <b>Master's Degree in MKU </b>, where I have scored 75% aggregate 
+  <br><br>
+  I consider myself a passionate programmer and enthusiastic for technology and would like to explore more via hands on 
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
+
+# •	12 years of experience in analysis, design, development, automation, support and management of web based software applications using Java/J2EE technologies
+#and in particular, Excellent communication and interpersonal skills, team handling experience.
+#Although I have an interest in the discipline of data science in its entirety
